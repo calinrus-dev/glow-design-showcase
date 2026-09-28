@@ -4,7 +4,7 @@
 
 ## Contexto
 
-Una investigación de sistema visual que separa componentes, temas y movimiento para dar coherencia a diferentes expresiones de interfaz.
+Una exploración de componentes, temas y movimiento ligada a la identidad Glow, cuyo recorrido continúa dentro de Nhur. Documenta cómo mantener coherencia visual entre distintas expresiones de interfaz.
 
 **Tecnologías asociadas al proyecto:** Flutter · Dart · Diseño de interfaces.
 
